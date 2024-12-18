@@ -7,7 +7,7 @@ All the explanation is given along with the code in comments
 
 This is a simple **multi-user chat system** where multiple users can chat with each other in real-time using a server-client model. Here’s how the system works:
 
-*NOTE:*Before compiling make sure you have lates version i.e. mingw64 or later because only it can handle threads
+**NOTE:**Before compiling make sure you have lates version i.e. mingw64 or later because only it can handle threads
 ---
 
 ### **1. Server Side:**
